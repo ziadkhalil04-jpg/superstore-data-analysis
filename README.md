@@ -156,22 +156,23 @@ openpyxl
 ## 📸 Charts
 
 ### Top 10 Products by Sales
-![Top 10 Products by Sales](images/top_products.png)
+![Top 10 Products by Sales]<img width="1298" height="476" alt="Top 10 Proudcts by Sales" src="https://github.com/user-attachments/assets/ad9f0332-f388-4fd7-b926-0101cbe8fddd" />
 
 ### Top 10 States by Profit
-![Top 10 States by Profit](images/top_states.png)
+![Top 10 States by Profit]<img width="992" height="476" alt="Top 10 State by Profit" src="https://github.com/user-attachments/assets/8cce8515-52a8-47bb-b0e5-2189ae421913" />
 
 ### Top 10 Customers by Sales
-![Top 10 Customers by Sales](images/top_customers.png)
+![Top 10 Customers by Sales]<img width="939" height="399" alt="Top 10 Customer by Sales" src="https://github.com/user-attachments/assets/ead8d622-0de1-4a4b-a610-db3ad7fe20bb" />
 
 ### Profit by Sub-Category
-![Profit by Sub-Category](images/profit_by_subcategory.png)
+![Profit by Sub-Category]<img width="932" height="399" alt="Bottom 3 Sup-Categories by Average Sales" src="https://github.com/user-attachments/assets/ddd65b90-50f2-45a5-904b-b042f83ad9db" />
 
 ### Profit by Discount Level
-![Profit by Discount Level](images/profit_by_discount.png)
+![Profit by Discount Level]
 
 ### Sales and Profit per Year
-![Sales and Profit per Year](images/yearly_trend.png)
+![Sales and Profit per Year]<img width="1182" height="730" alt="yearly_trend" src="https://github.com/user-attachments/assets/b749703d-7266-4040-a2be-037b26885e9f" />
+
 
 ---
 
